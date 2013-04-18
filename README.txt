@@ -17,5 +17,4 @@ input. You are able to repeatedly attempt to "login" as many times as you like t
 system.
 
 *Note: This project is still far from complete. It functions well, but over time I will continue
-to improve the program to account for various user errors, as well as to make it more efficient
-and accurate. 
+to improve the program to account for various user errors, as well as to make it more efficient and accurate. 
